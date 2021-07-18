@@ -3,10 +3,27 @@
   color: $white;
 }
 
+@font-face {
+  font-family: 'GmarketSans';
+  src: url("/fonts/GmarketSansMedium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'GmarketSans';
+  src: url("/fonts/GmarketSansBold.otf") format("opentype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'GmarketSans';
+  src: url("/fonts/GmarketSansBold.otf") format("opentype");
+  font-weight: lighter;
+}
+
 html,
 body {
   overflow-x: hidden;
   -ms-overflow-style: none;
+  font-family: 'GmarketSans';
 }
 
 html {
