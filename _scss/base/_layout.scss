@@ -18,26 +18,23 @@
  * Center the page content.
  */
 
-.container {
-  max-width: 56rem;
-  &.content {
-    padding-top: 6.5rem;
-  }
-  a {
-    @if $theme-color != $default { color: $theme-color; }
-  }
-}
-@media (min-width: 70em) {
+@media screen and (max-width: 991px) {
   .container {
-    max-width: 64rem;
     &.content {
       padding-top: 6.5rem;
     }
+    a {
+      @if $theme-color != $default { color: $theme-color; }
+    }
   }
 }
-@media (min-width: 80em) {
+@media screen and (min-width: 991px) {
   .container {
-    max-width: 74rem;
+    margin: 0 10rem;
+      &.content {
+    padding-top: 6.5rem;
   }
+  }
+
 }
 

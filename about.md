@@ -1,30 +1,30 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+간결하고 이해하기 쉽게 코드를 짜도록 노력하자
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<h3>성균관대학교 소프트웨어학과 18학번</h3>
 
-There are currently two themes built on Poole:
+<h5>개발 경험</h5>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* 꿈꾸는 개발자([https://devdreamers.kr/](https://devdreamers.kr/)) 대표 - 기획, 디자인, 풀스택 개발 담당 (Django, Django Template)
+* 비트코인 자동매매 개발 중
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<h3>관심 분야</h3>
 
-## Setup
+* 웹 개발
+* 게임 개발
+* ML / DL
+* 데이터 마이닝
+* DevOps
 
-Some fun facts about the setup of this project include:
+<h3>기술 스택</h3>
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* Django
+* Pytorch
+* Tesonflow
+* Docker

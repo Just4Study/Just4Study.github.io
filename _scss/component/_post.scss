@@ -37,9 +37,18 @@
   }
 
   .post-more {
+    text-align:left; 
+    text-decoration: none;
+    font-size: .8rem;
     margin-top: .5em;
     .fa{
       margin-right: .2em;
+    }
+    strong a {
+      color:red; 
+    }
+    hr {
+      margin: 3rem 0;
     }
   }
 

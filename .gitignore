@@ -43,3 +43,13 @@ bower_components
 
 # sass
 .sass-cache
+
+*.gem
+.bundle
+.jekyll-metadata
+_asset_bundler_cache
+codekit-config.json
+example/_site
+Gemfile.lock
+npm-debug.log*
+vendor/bundle
